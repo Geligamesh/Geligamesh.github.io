@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title></title>
+  <title>JavaNotebook</title>
   
-  
+  <subtitle>郭雪彪的Java学习笔记</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2020-04-04T08:20:06.975Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://blog.geligamesh.cn/"/>
+  <updated>2020-04-04T15:40:09.693Z</updated>
+  <id>http://blog.geligamesh.cn/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Geligamesh</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2020/04/04/hello-world/"/>
-    <id>http://yoursite.com/2020/04/04/hello-world/</id>
-    <published>2020-04-04T08:20:06.975Z</published>
-    <updated>2020-04-04T08:20:06.975Z</updated>
+    <title>SpringCloud Netflix微服务组件</title>
+    <link href="http://blog.geligamesh.cn/2020/04/04/hello-world/"/>
+    <id>http://blog.geligamesh.cn/2020/04/04/hello-world/</id>
+    <published>2020-04-04T14:45:21.000Z</published>
+    <updated>2020-04-04T15:40:09.693Z</updated>
     
     <summary type="html">
     
